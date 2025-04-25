@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/vector-dot-product-widget/static/css/main.8280d99b.chunk.css",
+    "main.js": "/vector-dot-product-widget/static/js/main.e4533a43.chunk.js",
+    "main.js.map": "/vector-dot-product-widget/static/js/main.e4533a43.chunk.js.map",
+    "runtime~main.js": "/vector-dot-product-widget/static/js/runtime~main.6f41b8f1.js",
+    "runtime~main.js.map": "/vector-dot-product-widget/static/js/runtime~main.6f41b8f1.js.map",
+    "static/js/2.4519393a.chunk.js": "/vector-dot-product-widget/static/js/2.4519393a.chunk.js",
+    "static/js/2.4519393a.chunk.js.map": "/vector-dot-product-widget/static/js/2.4519393a.chunk.js.map",
+    "static/js/3.a29efab2.chunk.js": "/vector-dot-product-widget/static/js/3.a29efab2.chunk.js",
+    "static/js/3.a29efab2.chunk.js.map": "/vector-dot-product-widget/static/js/3.a29efab2.chunk.js.map",
+    "index.html": "/vector-dot-product-widget/index.html",
+    "precache-manifest.f7a26d5c1f1349ee96d4d147eb8f21ef.js": "/vector-dot-product-widget/precache-manifest.f7a26d5c1f1349ee96d4d147eb8f21ef.js",
+    "service-worker.js": "/vector-dot-product-widget/service-worker.js",
+    "static/css/main.8280d99b.chunk.css.map": "/vector-dot-product-widget/static/css/main.8280d99b.chunk.css.map"
+  }
+}
